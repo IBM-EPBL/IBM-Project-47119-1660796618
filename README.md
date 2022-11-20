@@ -23,7 +23,7 @@
 
 ## 🧩 Project Demo
 
-
+https://drive.google.com/file/d/1lj7J40dAfTFKhinvhIvtY5mOndAPQmXP/view?usp=drivesdk
 
 ## 📒 Assignments
 
@@ -41,7 +41,7 @@
 
 ## 👨🏻‍💻 Final deliverables
 
-- [Final Code]()
-- [Project Report]()
+- [Final Code](https://github.com/IBM-EPBL/IBM-Project-47119-1660796618/blob/main/Final%20Deliverables/Final%20Code.pdf)
+- [Project Report](https://github.com/IBM-EPBL/IBM-Project-47119-1660796618/blob/main/Final%20Deliverables/Project%20Report.pdf)
 
 
